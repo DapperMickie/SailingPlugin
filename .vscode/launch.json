@@ -1,0 +1,17 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "SailingPluginTest",
+            "request": "launch",
+            "mainClass": "com.github.dappermickie.sailing.SailingPluginTest",
+            "projectName": "SailingPlugin",
+            "vmArgs": "-ea",
+            "args": ["--developer-mode", "--debug"]
+        }
+    ]
+}
